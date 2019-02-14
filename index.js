@@ -45,6 +45,9 @@ function gameController() {
         } else if (alreadyGuessed.includes(input.guess)) { //determines if current input letter has been guessed previously by checking to see if it is already included in the alreadyGuessed array
             console.log("\nAhem...You already guessed that letter, try another.\n".red);
             return gameController();
+        } else if (!/^[a-zA-Z]+$/.test(input.guess)) { //only allows letter input
+            console.log("\nHold up...the word only contains letters, so this time pick a letter.\n".red);
+            return gameController();
         }
 
 
