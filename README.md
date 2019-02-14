@@ -9,7 +9,7 @@ The assignment was to implement Node JS to create a word guess game, similar in 
 * *Y or y for "yes" and N or n for "no" when player is asked if they would like to play again*
 
 ## Narrated Video Demonstration
-[YouTube]
+[YouTube](https://youtu.be/ggLAm7WTmCw)
  
 ## Getting Started
 1. Clone [repo](https://github.com/dtries/CLI_Word_Guess) to your machine. 
