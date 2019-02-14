@@ -43,10 +43,10 @@ The assignment was to implement Node JS to create a word guess game, similar in 
           * Chances Left display remains unchanged.
           
   1. If word is guessed correctly or the chances left run out:
-    * Winner or Loser message is displayed along with the entire word that was to be guessed.
-    * Player is asked if they would like to play again.
-      *If yes, game resets and a new word is selected at random.
-      *If no, game exits back to default command line.
+     * Winner or Loser message is displayed along with the entire word that was to be guessed.
+     * Player is asked if they would like to play again.
+        *If yes, game resets and a new word is selected at random.
+        *If no, game exits back to default command line.
                      
 ## Tech Employed
 * Node.js - (see below)
