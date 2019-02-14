@@ -4,7 +4,7 @@
 
 The assignment was to implement Node JS to create a word guess game, similar in concept to hangman, but tracking guesses left instead of adding to a hangman figure for an incorrect guess. The CLI Word Guess app uses the command line and node.js package to accept player input in the form of:
 
-* *keyboard characters for guessing letters in the word to be guessed*
+* *keyboard characters for guessing letters in the word*
 
 * *Y or y for "yes" and N or n for "no" when player is asked if they would like to play again*
 
