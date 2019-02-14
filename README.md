@@ -12,7 +12,7 @@ The assignment was to implement Node JS to create a word guess game, similar in 
 [YouTube]
  
 ## Getting Started
-1. Clone [repo] to your machine. https://github.com/dtries/CLI_Word_Guess
+1. Clone [repo]https://github.com/dtries/CLI_Word_Guess to your machine. 
 1. Enter 'npm install' in GitBash or your terminal.
    * This will install the proper js package files from a package JSON file.
 1. Enter 'node index.js' to begin game. 
