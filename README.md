@@ -45,13 +45,13 @@ The assignment was to implement Node JS to create a word guess game, similar in 
   1. If word is guessed correctly or the chances left run out:
      * Winner or Loser message is displayed along with the entire word that was to be guessed.
      * Player is asked if they would like to play again.
-        *If yes, game resets and a new word is selected at random.
-        *If no, game exits back to default command line.
+          *If yes, game resets and a new word is selected at random.
+          *If no, game exits back to default command line.
                      
 ## Tech Employed
 * Node.js - (see below)
-* Inquirer.js NPM Package - https://www.npmjs.com/package/axios
-* Colors NPM Package - https://www.npmjs.com/package/spotify  (To access the SPOTIFY API)
+* Inquirer.js NPM Package -https://www.npmjs.com/package/inquirer
+* Colors NPM Package - https://www.npmjs.com/package/colors
 
 ## Prerequisites
 * Node.js - The latest version of Node is available at: https://nodejs.org/en/
